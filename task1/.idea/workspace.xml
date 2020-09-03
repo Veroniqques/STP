@@ -57,6 +57,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="41fb505e-4a3b-4754-9918-c92d68f51578" name="Default Changelist" comment="" />
@@ -64,9 +65,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599144809848</updated>
-      <workItem from="1599144812380" duration="1000" />
+      <workItem from="1599144812380" duration="398000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -78,5 +82,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom" timestamp="1599145216173">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1599145216173" />
+    <state width="1358" height="245" key="GridCell.Tab.0.center" timestamp="1599145216172">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1599145216172" />
+    <state width="1358" height="245" key="GridCell.Tab.0.left" timestamp="1599145216171">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1599145216171" />
+    <state width="1358" height="245" key="GridCell.Tab.0.right" timestamp="1599145216173">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1358" height="245" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1599145216173" />
   </component>
 </project>
