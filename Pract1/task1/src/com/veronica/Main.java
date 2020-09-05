@@ -1,3 +1,4 @@
+//#1 Выведите на экран текст "Hello World"
 package com.veronica;
 
 public class Main {
