@@ -1,9 +1,12 @@
+/*
+№4 Даны две переменные. Поменяйте значения переменных друг с другом двумя способами
+ */
 package com.veronica;
 
 public class Main {
 
     public static void main(String[] args) {
-        //способ 1
+        //Способ 1
         int a = 10;
         int b = 4;
         int c = 0;
@@ -12,7 +15,7 @@ public class Main {
         b = c;
         System.out.println(a);
         System.out.println(b);
-        //способ 2
+        //Способ 2
         a = a + b;
         b = a - b;
         a = a - b;
