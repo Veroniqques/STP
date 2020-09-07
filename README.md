@@ -1,4 +1,4 @@
-<img src=https://avatars.mds.yandex.net/get-pdb/34158/4d082971-c34a-426d-9215-b20852b88d00/s600 width="500" height="350" align="right"/>
+<img src=https://kartinki-dlya-srisovki.ru/wp-content/uploads/2018/06/kartinki-dlya-srisovki-pikachu-2.jpg width="500" height="350" align="left"/>
 
 # STP
 ## Работа выполнена студенткой Соколовой Вероникой
