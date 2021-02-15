@@ -4,4 +4,4 @@
 ## Домашние работы по предмету "Современные технологии программирования"
 
 * [Домашняя работа №1](https://github.com/Veroniqques/STP-untitled1/tree/master/Java%20дз)
-* [Домашняя работа №2] (https://github.com/Veroniqques/STP-untitled1/tree/master/Тест)
+* [Домашняя работа №2](https://github.com/Veroniqques/STP-untitled1/tree/master/Тест)
