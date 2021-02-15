@@ -3,4 +3,4 @@
 # STP
 ## Практики по предмету "Современные технологии программирования"
 
-* [Практическая №1](https://github.com/Veroniqques/STP/tree/master/Pract1)
+* [Домашняя работа №1](https://github.com/Veroniqques/STP/tree/master/Pract1)
