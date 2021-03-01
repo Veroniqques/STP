@@ -3,5 +3,6 @@
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
 
-* [Домашняя работа №1](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Task)
+* [Домашняя работа к 18.02](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Tasks/18.02)
+* [Работа к 25.02](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Tasks/25.02)
 
