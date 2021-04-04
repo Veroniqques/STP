@@ -1,4 +1,4 @@
-<img src=https://kartinki-dlya-srisovki.ru/wp-content/uploads/2018/06/kartinki-dlya-srisovki-pikachu-2.jpg width="425" height="445" align="left"/>
+<https://pm1.narvii.com/6490/e6b878db177062aca8e416fd560aa93ed3eb0a2d_hq.jpg width="425" height="445" align="right"/>
 
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
