@@ -1,4 +1,4 @@
-<img src = https://pm1.narvii.com/6490/e6b878db177062aca8e416fd560aa93ed3eb0a2d_hq.jpg width="425" height="445" align="right"/> 
+<img src = https://i.pinimg.com/originals/e6/0d/eb/e60deb8e2a43fe7fb068fdb1c20ac622.jpg width="425" height="445" align="right"/> 
  
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
