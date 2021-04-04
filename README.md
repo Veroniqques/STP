@@ -1,4 +1,4 @@
-<https://w7.pngwing.com/pngs/773/978/png-transparent-pikachu-ash-ketchum-pokemon-trading-card-game-anime-pikachu-food-manga-cartoon.png width="425" height="445" align="right"/> 
+<img src = https://w7.pngwing.com/pngs/773/978/png-transparent-pikachu-ash-ketchum-pokemon-trading-card-game-anime-pikachu-food-manga-cartoon.png width="425" height="445" align="right"/> 
  
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
