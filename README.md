@@ -1,4 +1,4 @@
-<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fru%2Ffree-png-demxi&psig=AOvVaw35nVz-hGS76aWi-E23r6hq&ust=1617634181498000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiV3onr5O8CFQAAAAAdAAAAABAf width="425" height="445" align="right"/> 
+<https://w7.pngwing.com/pngs/773/978/png-transparent-pikachu-ash-ketchum-pokemon-trading-card-game-anime-pikachu-food-manga-cartoon.png width="425" height="445" align="right"/> 
  
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
