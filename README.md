@@ -9,3 +9,4 @@
 * [Практика blog](https://github.com/Veroniqques/STP/tree/master/blog)
 * [Практика по java_fx](https://github.com/Veroniqques/STP/tree/master/javafx_pi19-4)
 * [Практика по rest](https://github.com/Veroniqques/STP/tree/master/rest_pi19_4)
+https://pm1.narvii.com/6490/e6b878db177062aca8e416fd560aa93ed3eb0a2d_hq.jpg
