@@ -1,0 +1,15 @@
+.background{
+    -fx-background-color: white;
+}
+
+.label{
+    -fx-font-size: 11pt;
+    -fx-text-fill: purple;
+    -fx-opacity: 0.6;
+}
+
+.button{
+    -fx-background-color: purple;
+    -fx-text-fill: white;
+}
+
