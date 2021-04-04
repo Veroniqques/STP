@@ -1,4 +1,4 @@
-<https://pm1.narvii.com/6490/e6b878db177062aca8e416fd560aa93ed3eb0a2d_hq.jpg width="425" height="445" align="right"/>
+<https://pm1.narvii.com/6490/e6b878db177062aca8e416fd560aa93ed3eb0a2d_hq.jpg width="425" height="445" align="right"/> 
 
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
