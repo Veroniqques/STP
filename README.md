@@ -1,4 +1,4 @@
-<img src = https://i.pinimg.com/originals/e6/0d/eb/e60deb8e2a43fe7fb068fdb1c20ac622.jpg width="500" height="300" align="right"/> 
+<img src = https://i.pinimg.com/originals/e6/0d/eb/e60deb8e2a43fe7fb068fdb1c20ac622.jpg width="425" height="445" align="right"/> 
  
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
