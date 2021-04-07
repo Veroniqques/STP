@@ -9,4 +9,4 @@
 * [Практика blog](https://github.com/Veroniqques/STP/tree/master/blog)
 * [Практика по java_fx](https://github.com/Veroniqques/STP/tree/master/javafx_pi19-4)
 * [Практика по rest](https://github.com/Veroniqques/STP/tree/master/rest_pi19_4)
-* [Контрольная работа 1.04](https://github.com/Veroniqques/STP/tree/master/Sokolova_Veronica_Pi19-4)
+* [Контрольная работа 1.04](https://github.com/Veroniqques/STP/tree/master/Контрольная%20работа)
