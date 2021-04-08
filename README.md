@@ -1,4 +1,4 @@
-<img src = https://c0.klipartz.com/pngpicture/308/375/sticker-png-alpaca-llama-drawing-decal-sticker-unicorn-mammal-cat-like-mammal-carnivoran-heart-textile.png width="425" height="445" align="right"/> 
+<img src = https://i.pinimg.com/originals/e6/0d/eb/e60deb8e2a43fe7fb068fdb1c20ac622.jpgwidth="425" height="445" align="right"/> 
  
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
