@@ -3,7 +3,7 @@
 # STP
 ## Домашние работы по предмету "Современные технологии программирования"
 
-* [Тестирование Курсовая Работа](https://github.com/Veroniqques/STP/tree/master/sokolova_server-master)
+* [✅Тестирование Курсовая Работа](https://github.com/Veroniqques/STP/tree/master/sokolova_server-master)
 * [Домашняя работа к 18.02](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Tasks/18.02)
 * [Работа к 25.02](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Tasks/25.02)
 * [Работа к 10.03](https://github.com/Veroniqques/STP-untitled1/tree/master/Home_Tasks/10.03)
