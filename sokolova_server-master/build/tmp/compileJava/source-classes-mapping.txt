@@ -1,0 +1,24 @@
+com/example/demo/Services.java
+ com.example.demo.Services
+com/example/demo/ClientsService.java
+ com.example.demo.ClientsService
+com/example/demo/Employees.java
+ com.example.demo.Employees
+com/example/demo/ClientsController.java
+ com.example.demo.ClientsController
+com/example/demo/Contacts.java
+ com.example.demo.Contacts
+com/example/demo/MySpringApplication.java
+ com.example.demo.MySpringApplication
+com/example/demo/Goods.java
+ com.example.demo.Goods
+com/example/demo/Clients.java
+ com.example.demo.Clients
+com/example/demo/ClientsRepo.java
+ com.example.demo.ClientsRepo
+com/example/demo/ClientsServiceImpl.java
+ com.example.demo.ClientsServiceImpl
+com/example/demo/Entries.java
+ com.example.demo.Entries
+com/example/demo/Shares.java
+ com.example.demo.Shares
